@@ -1,4 +1,4 @@
-# My name is Ater
+# Hello, my name is Artem
 ## I am 13 years old
 ```javascript
 
